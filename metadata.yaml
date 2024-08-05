@@ -1,0 +1,37 @@
+_repo: The-orchestra-and-its-instruments_73991
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Singleton, Esther
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '7412'
+    url: http://www.gutenberg.org/2009/agents/7412
+description: ''
+gutenberg_issued: '2024-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73991'
+  lccn: '18001343'
+language: en
+pgterms:marc904: https://archive.org/details/orchestraitsinst00sing/page/n7/mode/2up
+pgterms:marc905: 20230408163329singleton
+pgterms:marc906: '1917'
+pgterms:marc907: us
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Symphony society of New York, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musical instruments'
+- !lcsh 'Orchestra'
+- !lcsh 'Instrumentation and orchestration -- History'
+- !lcc 'ML'
+- GITenberg
+tableOfContents: Prelude -- The violin -- The viola -- The violoncello -- The double-bass
+  -- The woodwind family -- The brasswind family -- Percussion instruments -- The
+  orchestra -- The conductor -- The harp -- The pianoforte.
+title: The orchestra and its instruments
+url: http://www.gutenberg.org/ebooks/73991
